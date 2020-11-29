@@ -13,7 +13,7 @@ using System.IO;
 
 namespace Tutorial
 {
-    public class LuaMian : MonoBehaviour
+    public class LuaMain : MonoBehaviour
     {
         string LUA_PATH;
         LuaEnv luaenv = null;
